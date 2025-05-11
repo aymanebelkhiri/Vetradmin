@@ -4,7 +4,7 @@
 
 ![Product Gif](https://i.ibb.co/YjWPdyT/vision-ui-free-react.png)
 
-Most trendiest, complex and innovative Free Dashboard Made by [Simmmple](https://simmmple.com?ref=readme-vudreact) & [Creative Tim](https://creative-tim.com/?ref=readme-vudreact). Check our latest Free ReactJS Dashboard.
+
 
 Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and webapps.
 
